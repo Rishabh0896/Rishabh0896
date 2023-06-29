@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hello, I'm Rishabh Gupta!
 
-<!--
-**Rishabh0896/Rishabh0896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mechanical Engineer turned Programmer | Passionate about Object-Oriented Design
 
-Here are some ideas to get you started:
+🔧 Skilled in developing robust software solutions for engineering applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Proficient in Java, Python, C, and C++
+
+📚 Continuously learning and exploring new technologies to expand my programming knowledge
+
+📫 Reach me at rishabhdinesh.gupta@outlook.com
+
+Let's collaborate and build amazing software projects together! 💡
