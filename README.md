@@ -1,6 +1,6 @@
 👋 Hello, I'm Rishabh Gupta!
 
-🚀 Mechanical Engineer turned Programmer | Passionate about Object-Oriented Design
+🚀 Mechanical Engineer turned Programmer
 
 🔧 Skilled in developing robust software solutions for engineering applications
 
