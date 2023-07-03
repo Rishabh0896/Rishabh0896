@@ -1,6 +1,6 @@
 👋 Hello, I'm Rishabh Gupta!
 
-🚀 Mechanical Engineer turned Programmer
+🚀 MSCS Align graduate @ Northeastern University
 
 🔧 Skilled in developing robust software solutions for engineering applications
 
