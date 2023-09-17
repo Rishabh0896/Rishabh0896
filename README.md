@@ -1,6 +1,6 @@
 👋 Hello, I'm Rishabh Gupta!
 
-🚀 MSCS Align graduate @ Northeastern University
+🚀 Pursuing my Masters in Computer Science @ Northeastern University
 
 🔧 Skilled in developing robust software solutions for engineering applications
 
