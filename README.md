@@ -1,4 +1,4 @@
-👋 Hello, I'm Rishabh Gupta!
+👋 Hello, I'm Rishabh!
 
 🚀 Pursuing my Masters in Computer Science @ Northeastern University
 
