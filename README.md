@@ -4,7 +4,7 @@
 
 🔧 Skilled in developing robust software solutions for engineering applications
 
-💻 Proficient in Java, C, Python and C++
+💻 Proficient in Java, Python, C and C++
 
 📚 Continuously learning and exploring new technologies to expand my programming knowledge
 
